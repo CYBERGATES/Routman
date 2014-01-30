@@ -1,0 +1,8 @@
+#################
+## Custom settings
+#################
+
+*.txt
+*.log
+tmp/
+!README.txt
